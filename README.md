@@ -8,10 +8,10 @@ This page consists of all of my assignments done during my mini AU(Accolite Univ
 
 ```markdown
 
-## 1. [Restaurant Schema Design](https://github.com/LokeshDogga/Restaurant_Database)
-## 2. [Telephone Simulation using core java](https://github.com/LokeshDogga/Telephone-Simulator)
-## 3. Parsing Xml using Dom 
-## 4. Java Thread Synchronization 
+--> [Restaurant Schema Design](https://github.com/LokeshDogga/Restaurant_Database)
+--> [Telephone Simulation using core java](https://github.com/LokeshDogga/Telephone-Simulator)
+--> Parsing Xml using Dom 
+--> Java Thread Synchronization 
 
 
 ```
