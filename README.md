@@ -6,8 +6,6 @@ This page consists of all of my assignments done during my mini AU(Accolite Univ
 
 ### My Assignments
 
-```markdown
-
 <ol> 
 <li><a href="https://github.com/LokeshDogga/Restaurant_Database" style="text-decoration:none">Restaurant Schema Design</a></li>>
 <li><a href = "https://github.com/LokeshDogga/Telephone-Simulator" style="text-decoration:none">Telephone Simulation using core java</a></li>
@@ -15,6 +13,5 @@ This page consists of all of my assignments done during my mini AU(Accolite Univ
 <li><a href = "https://github.com/LokeshDogga/Parsing_Xml_Using_Dom" style="text-decoration:none">Java Thread Synchronization</a></li> 
 </ol>
 
-```
 
 For more details mail me [lokesh.dogga@accoliteindia.com]
